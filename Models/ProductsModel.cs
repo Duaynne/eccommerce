@@ -2,7 +2,15 @@ namespace MVC1.Models;
 
 public class ProductsViewModel
 {
-    public string? RequestId { get; set; }
-
-    public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+public string? Name { get; set; }
+public string? Desc { get; set; }
+public string? Price { get; set; }
+public string? Qty { get; set; }
+public int? QtySelected { get; set; }
+public string? ImgSource { get; set; }
+public string? ProdID { get; set; }
+public string? CatID { get; set; }
+public string? CategoryName { get; set; }
+public string? FileName { get; set; }
+public IFormFile? file { get; set; }
 }

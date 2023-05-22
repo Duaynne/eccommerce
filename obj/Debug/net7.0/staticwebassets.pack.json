@@ -21,6 +21,222 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\Slide2.jfif",
+      "PackagePath": "staticwebassets\\images\\Slide2.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\daniel_brown.jfif",
+      "PackagePath": "staticwebassets\\images\\our_team\\daniel_brown.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\miyang_chan.jfif",
+      "PackagePath": "staticwebassets\\images\\our_team\\miyang_chan.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\nina_davaluri.jfif",
+      "PackagePath": "staticwebassets\\images\\our_team\\nina_davaluri.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\yash_gupta.jfif",
+      "PackagePath": "staticwebassets\\images\\our_team\\yash_gupta.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\Estore.pdf",
+      "PackagePath": "staticwebassets\\images\\products\\Estore.pdf"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\250d_essential_travel_kit_3d38.webp",
+      "PackagePath": "staticwebassets\\images\\products\\camera\\250d_essential_travel_kit_3d38.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 2000D DC Starter Kit.txt",
+      "PackagePath": "staticwebassets\\images\\products\\camera\\Canon EOS 2000D DC Starter Kit.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 250D Essential Travel Kit.txt",
+      "PackagePath": "staticwebassets\\images\\products\\camera\\Canon EOS 250D Essential Travel Kit.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp",
+      "PackagePath": "staticwebassets\\images\\products\\camera\\eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\Apple iphone 13 Pro Max 128GB Graphite.txt",
+      "PackagePath": "staticwebassets\\images\\products\\cellphone\\Apple iphone 13 Pro Max 128GB Graphite.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp",
+      "PackagePath": "staticwebassets\\images\\products\\cellphone\\iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp",
+      "PackagePath": "staticwebassets\\images\\products\\cellphone\\sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt",
+      "PackagePath": "staticwebassets\\images\\products\\computer\\ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt",
+      "PackagePath": "staticwebassets\\images\\products\\computer\\ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_t_1_1c7b.webp",
+      "PackagePath": "staticwebassets\\images\\products\\computer\\asus_t_1_1c7b.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp",
+      "PackagePath": "staticwebassets\\images\\products\\computer\\asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\eicon.PNG",
+      "PackagePath": "staticwebassets\\images\\products\\eicon.PNG"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\estore.png",
+      "PackagePath": "staticwebassets\\images\\products\\estore.png"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\logo-icon.png",
+      "PackagePath": "staticwebassets\\images\\products\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\payments.png",
+      "PackagePath": "staticwebassets\\images\\products\\payments.png"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-13.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Lenovo M10 LTE Tablet.txt",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\Lenovo M10 LTE Tablet.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy Tab S8+ 5G.txt",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\Samsung Galaxy Tab S8+ 5G.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxytab_s8__graphite_front_0c4a.webp",
+      "PackagePath": "staticwebassets\\images\\products\\tablet\\galaxytab_s8__graphite_front_0c4a.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Hisense 75-inch 4K UHD Smart TV 75A6GS.txt",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Hisense 75-inch 4K UHD Smart TV 75A6GS.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung 75-inch Smart Neo QLED TV -75QN85A.txt",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Samsung 75-inch Smart Neo QLED TV -75QN85A.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung Galaxy S22 Plus 5G Dual Sim Black.txt",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Samsung Galaxy S22 Plus 5G Dual Sim Black.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Skyworth 65-inch OLED Android TV-65SXC9800.txt",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Skyworth 65-inch OLED Android TV-65SXC9800.txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony 77-inch 4K OLED TV (77A80J).txt",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Sony 77-inch 4K OLED TV (77A80J).txt"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony77a_ac58.webp",
+      "PackagePath": "staticwebassets\\images\\products\\television\\Sony77a_ac58.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\hisense75a6gs_1_8ddf.webp",
+      "PackagePath": "staticwebassets\\images\\products\\television\\hisense75a6gs_1_8ddf.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\samsungqn85a_front_e_commerce__1__c8fd.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\television\\samsungqn85a_front_e_commerce__1__c8fd.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\skyworth65sxc9800_54db.webp",
+      "PackagePath": "staticwebassets\\images\\products\\television\\skyworth65sxc9800_54db.webp"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide-1-480w.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1-480w.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide1.jfif",
+      "PackagePath": "staticwebassets\\images\\slide1.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide3.jfif",
+      "PackagePath": "staticwebassets\\images\\slide3.jfif"
+    },
+    {
+      "Id": "C:\\Database\\MVC1\\wwwroot\\images\\slide4.jfif",
+      "PackagePath": "staticwebassets\\images\\slide4.jfif"
+    },
+    {
       "Id": "C:\\Database\\MVC1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

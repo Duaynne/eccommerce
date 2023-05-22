@@ -7,7 +7,5 @@ public class LoginViewModel
     public string? LastName { get; set; }
     public string? EmailID { get; set; }
     public string? Password { get; set; }
-    public string? PasswordConfirm { get; set; }
-
-
+    public string? PasswordConfirm { get; set; }    
 }

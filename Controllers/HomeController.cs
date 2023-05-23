@@ -13,32 +13,59 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
+    public IActionResult about()
     {
         return View();
     }
 
-    public IActionResult Product()
+    public IActionResult cart()
+    {
+        return View();
+    }
+
+    public IActionResult checkout()
+    {
+        return View();
+    }
+
+    public IActionResult contact()
     {
         return View();
     }
     
-public IActionResult About()
+    public IActionResult faq()
+    {
+        return View();
+    }
+public IActionResult index()
     {
         return View();
     }
 
-    public IActionResult Login()
+    public IActionResult login()
     {
         return View();
     }
 
-    
+    public IActionResult order()
+    {
+        return View();
+    }
+
+       public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    public IActionResult product()
+    {
+        return View();
+    }
 
 
 
 
-    
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

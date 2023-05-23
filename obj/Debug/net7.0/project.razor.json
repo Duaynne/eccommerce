@@ -18560,8 +18560,13 @@
   "RootNamespace": "MVC1",
   "Documents": [
     {
-      "FilePath": "c:\\Database\\MVC1\\Views\\Shopping\\orders.cshtml",
-      "TargetPath": "Views\\Shopping\\orders.cshtml",
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\product.cshtml",
+      "TargetPath": "Views\\Home\\product.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\login.cshtml",
+      "TargetPath": "Views\\Home\\login.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18575,11 +18580,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Database\\MVC1\\Views\\Shopping\\cart.cshtml",
-      "TargetPath": "Views\\Shopping\\cart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Database\\MVC1\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18590,8 +18590,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Database\\MVC1\\Views\\Login\\login.cshtml",
-      "TargetPath": "Views\\Login\\login.cshtml",
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\cart.cshtml",
+      "TargetPath": "Views\\Home\\cart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18605,18 +18605,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\faq.cshtml",
+      "TargetPath": "Views\\Home\\faq.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Database\\MVC1\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Database\\MVC1\\Views\\Product\\product.cshtml",
-      "TargetPath": "Views\\Product\\product.cshtml",
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\contact.cshtml",
+      "TargetPath": "Views\\Home\\contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\checkout.cshtml",
+      "TargetPath": "Views\\Home\\checkout.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Database\\MVC1\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Database\\MVC1\\Views\\Home\\order.cshtml",
+      "TargetPath": "Views\\Home\\order.cshtml",
       "FileKind": "mvc"
     }
   ],

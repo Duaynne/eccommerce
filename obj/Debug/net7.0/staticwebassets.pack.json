@@ -5,16 +5,8 @@
       "PackagePath": "staticwebassets\\MVC1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Database\\MVC1\\wwwroot\\css\\login.css",
-      "PackagePath": "staticwebassets\\css\\login.css"
-    },
-    {
       "Id": "C:\\Database\\MVC1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Database\\MVC1\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Database\\MVC1\\wwwroot\\favicon.ico",

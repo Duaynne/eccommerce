@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mZg6x+CXKlMfRyLHs6Fw/G5XiHioh1PgXTiBxG92UPU=",
+  "Hash": "GXrcEe8UT6EvU45y/XS7pPnyvOn89kEqAQextWSvREs=",
   "Source": "MVC1",
   "BasePath": "_content/MVC1",
   "Mode": "Default",
@@ -51,23 +51,6 @@
       "OriginalItemSpec": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\css\\login.css",
-      "SourceId": "MVC1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
-      "BasePath": "_content/MVC1",
-      "RelativePath": "css/login.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\login.css"
-    },
-    {
       "Identity": "C:\\Database\\MVC1\\wwwroot\\css\\site.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
@@ -83,23 +66,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\css\\style.css",
-      "SourceId": "MVC1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
-      "BasePath": "_content/MVC1",
-      "RelativePath": "css/style.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Database\\MVC1\\wwwroot\\favicon.ico",

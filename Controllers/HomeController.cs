@@ -1,9 +1,11 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MVC1.Models;
+/* 
 using MySql.Data;
 using MySql;
 using MySql.Data.MySqlClient;
+*/
 
 
 namespace MVC1.Controllers;

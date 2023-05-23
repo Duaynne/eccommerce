@@ -1,6 +1,10 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MVC1.Models;
+using MySql.Data;
+using MySql;
+using MySql.Data.MySqlClient;
+
 
 namespace MVC1.Controllers;
 
@@ -13,41 +17,41 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult about()
+    public IActionResult About()
     {
         return View();
     }
 
-    public IActionResult cart()
+    public IActionResult Cart()
     {
         return View();
     }
 
-    public IActionResult checkout()
+    public IActionResult Checkout()
     {
         return View();
     }
 
-    public IActionResult contact()
+    public IActionResult Contact()
     {
         return View();
     }
     
-    public IActionResult faq()
+    public IActionResult FAQ()
     {
         return View();
     }
-public IActionResult index()
-    {
-        return View();
-    }
-
-    public IActionResult login()
+public IActionResult Index()
     {
         return View();
     }
 
-    public IActionResult order()
+    public IActionResult Login()
+    {
+        return View();
+    }
+
+    public IActionResult Order()
     {
         return View();
     }
@@ -57,7 +61,7 @@ public IActionResult index()
         return View();
     }
 
-    public IActionResult product()
+    public IActionResult Product()
     {
         return View();
     }

@@ -1,6 +1,6 @@
 namespace MVC1.Models;
 
-public class HomeViewModel
+public class HomeModel
 {
     public string? RequestId { get; set; }
 

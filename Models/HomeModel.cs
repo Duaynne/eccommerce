@@ -6,3 +6,15 @@ public class HomeModel
 
     public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
 }
+
+public class Login
+{
+    /* Login register */
+    public int? LoginID { get; set; }
+    public string? FirstName { get; set; }
+    public string? LastName { get; set; }
+    public string? EmailID { get; set; }
+    public string? Password { get; set; }
+    public string? PasswordConfirm { get; set; }
+  
+}

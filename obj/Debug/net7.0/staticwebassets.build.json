@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GXrcEe8UT6EvU45y/XS7pPnyvOn89kEqAQextWSvREs=",
+  "Hash": "Uhwv3CxxMj2hoJHWopjo0Se1FD3aY2mLqrjzTvY1r/E=",
   "Source": "MVC1",
   "BasePath": "_content/MVC1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVC1\\wwwroot",
       "Source": "MVC1",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVC1.styles.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVC1.styles.css",
       "SourceId": "MVC1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "MVC1.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVC1.styles.css"
+      "OriginalItemSpec": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVC1.styles.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC1.bundle.scp.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC1.bundle.scp.css",
       "SourceId": "MVC1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "MVC1.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\~iFundi\\Database\\MVC1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\css\\site.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\favicon.ico",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\banner-1.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\banner-1.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/banner-1.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-1.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\banner-2.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\banner-2.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/banner-2.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-2.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\banner-3.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\banner-3.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/banner-3.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner-3.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\daniel_brown.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\our_team\\daniel_brown.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/our_team/daniel_brown.jfif",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our_team\\daniel_brown.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\miyang_chan.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\our_team\\miyang_chan.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/our_team/miyang_chan.jfif",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our_team\\miyang_chan.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\nina_davaluri.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\our_team\\nina_davaluri.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/our_team/nina_davaluri.jfif",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our_team\\nina_davaluri.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\our_team\\yash_gupta.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\our_team\\yash_gupta.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/our_team/yash_gupta.jfif",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\our_team\\yash_gupta.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\250d_essential_travel_kit_3d38.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\camera\\250d_essential_travel_kit_3d38.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/camera/250d_essential_travel_kit_3d38.webp",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\camera\\250d_essential_travel_kit_3d38.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 2000D DC Starter Kit.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 2000D DC Starter Kit.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/camera/Canon EOS 2000D DC Starter Kit.txt",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\camera\\Canon EOS 2000D DC Starter Kit.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 250D Essential Travel Kit.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\camera\\Canon EOS 250D Essential Travel Kit.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/camera/Canon EOS 250D Essential Travel Kit.txt",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\camera\\Canon EOS 250D Essential Travel Kit.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\camera\\eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\camera\\eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/camera/eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\camera\\eos_2000d___24_mp__dc_starter_kit_1200x628_22_july_2021_ecommerce_2945.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\Apple iphone 13 Pro Max 128GB Graphite.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\Apple iphone 13 Pro Max 128GB Graphite.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/cellphone/Apple iphone 13 Pro Max 128GB Graphite.txt",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\cellphone\\Apple iphone 13 Pro Max 128GB Graphite.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/cellphone/iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\cellphone\\iphone_13_pro_max_graphite_pure_back_iphone__128gb_5a02.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\cellphone\\sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/cellphone/sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\cellphone\\sm_s906_galaxys22plus_front_and_back_phantomblack_ecommerce_d1a4.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/computer/ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\computer\\ASUS VivoBook Flip 14 TP470 Core i5 1135G7 8GB RAM 256GB SSD 2-in-1 Laptop.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\computer\\ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/computer/ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\computer\\ASUS X515 Core i5 1035G7 8GB RAM 256GB SSD Storage Laptop.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_t_1_1c7b.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_t_1_1c7b.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/computer/asus_t_1_1c7b.webp",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\computer\\asus_t_1_1c7b.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\computer\\asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/computer/asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\computer\\asus_x515_m515_product_photo__1g_slate_gray_08_win11_ecommerce_954c.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\eicon.PNG",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\eicon.PNG",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/eicon.PNG",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\eicon.PNG"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\Estore.pdf",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\Estore.pdf",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/Estore.pdf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Estore.pdf"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\estore.png",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\estore.png",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/estore.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\estore.png"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\logo-icon.png",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\logo-icon.png",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/logo-icon.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\logo-icon.png"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\payments.png",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\payments.png",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/payments.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\payments.png"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-1.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-1.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-1.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-10.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-10.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-10.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-11.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-11.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-11.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-12.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-12.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-12.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-13.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-13.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-13.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-2.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-2.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-2.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-3.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-3.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-3.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-4.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-4.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-4.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\product-5.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\product-5.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/product-5.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\01_tab_m10_hd_tour_front_forward_facing_home_row_1_lte_black_ecommerce_c8be.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\galaxy_tab_s7_fe_mmw_mysticblack_front_with_s_pen_v2_ecommerce_d9dd.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxytab_s8__graphite_front_0c4a.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\galaxytab_s8__graphite_front_0c4a.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/galaxytab_s8__graphite_front_0c4a.webp",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\galaxytab_s8__graphite_front_0c4a.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Lenovo M10 LTE Tablet.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Lenovo M10 LTE Tablet.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/Lenovo M10 LTE Tablet.txt",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\Lenovo M10 LTE Tablet.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\Samsung Galaxy TAB S7 FE 5G 12.4 inch Black.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy Tab S8+ 5G.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\tablet\\Samsung Galaxy Tab S8+ 5G.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/tablet/Samsung Galaxy Tab S8+ 5G.txt",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet\\Samsung Galaxy Tab S8+ 5G.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Hisense 75-inch 4K UHD Smart TV 75A6GS.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Hisense 75-inch 4K UHD Smart TV 75A6GS.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Hisense 75-inch 4K UHD Smart TV 75A6GS.txt",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Hisense 75-inch 4K UHD Smart TV 75A6GS.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\hisense75a6gs_1_8ddf.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\hisense75a6gs_1_8ddf.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/hisense75a6gs_1_8ddf.webp",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\hisense75a6gs_1_8ddf.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung 75-inch Smart Neo QLED TV -75QN85A.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung 75-inch Smart Neo QLED TV -75QN85A.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Samsung 75-inch Smart Neo QLED TV -75QN85A.txt",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Samsung 75-inch Smart Neo QLED TV -75QN85A.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung Galaxy S22 Plus 5G Dual Sim Black.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Samsung Galaxy S22 Plus 5G Dual Sim Black.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Samsung Galaxy S22 Plus 5G Dual Sim Black.txt",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Samsung Galaxy S22 Plus 5G Dual Sim Black.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\samsungqn85a_front_e_commerce__1__c8fd.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\samsungqn85a_front_e_commerce__1__c8fd.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/samsungqn85a_front_e_commerce__1__c8fd.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\samsungqn85a_front_e_commerce__1__c8fd.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Skyworth 65-inch OLED Android TV-65SXC9800.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Skyworth 65-inch OLED Android TV-65SXC9800.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Skyworth 65-inch OLED Android TV-65SXC9800.txt",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Skyworth 65-inch OLED Android TV-65SXC9800.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\skyworth65sxc9800_54db.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\skyworth65sxc9800_54db.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/skyworth65sxc9800_54db.webp",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\skyworth65sxc9800_54db.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony 77-inch 4K OLED TV (77A80J).txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony 77-inch 4K OLED TV (77A80J).txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Sony 77-inch 4K OLED TV (77A80J).txt",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Sony 77-inch 4K OLED TV (77A80J).txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony77a_ac58.webp",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\products\\television\\Sony77a_ac58.webp",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/products/television/Sony77a_ac58.webp",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\television\\Sony77a_ac58.webp"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide-1-480w.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide-1-480w.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide-1-480w.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-1-480w.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide-1.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide-1.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide-1.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-1.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide-2.jpg",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide-2.jpg",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide-2.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide-2.jpg"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide1.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide1.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide1.jfif",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide1.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\Slide2.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\Slide2.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/Slide2.jfif",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Slide2.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide3.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide3.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide3.jfif",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide3.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\images\\slide4.jfif",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\images\\slide4.jfif",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "images/slide4.jfif",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide4.jfif"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\js\\site.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Database\\MVC1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVC1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Database\\MVC1\\wwwroot\\",
+      "ContentRoot": "C:\\~iFundi\\Database\\MVC1\\wwwroot\\",
       "BasePath": "_content/MVC1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
